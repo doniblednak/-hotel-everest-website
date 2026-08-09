@@ -1,0 +1,1 @@
+# Hotel Everest Website\n\nUpload index.html, style.css, and the assets folder to GitHub. Enable GitHub Pages from Settings > Pages.\n\nMobile/WhatsApp: 9849584808\nLandline: 01-5904193\nEmail: hoteleverestktm@gmail.com\nLocation: Sundhara, Pokharaline, Kathmandu, beside Civil Mall.
